@@ -1,24 +1,7 @@
-# README
+# Nutrient Dosing Calculator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this project is to create an accurate and well tested nutrient / fertilzier dosing calculator for planted aquariums. It has been a struggle to find an accurate dosing calculator online. Existing solutions either have incorrect math, hidden formulas, or untested math which makes it very difficult to trust any other solutions. We aim for transparency in all the forumlas as well as having our calculations tested to ensure their accuracy.
 
-Things you may want to cover:
+## Status
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Current status: unusable - Initial commit has been made and we are in a planning phase right now. Stay tuned.
